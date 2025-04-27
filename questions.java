@@ -1,4 +1,4 @@
-public class task{
+public class questions {
     public static void main(String[] args) {
 
     // 1.  Write a Java program to input your full name and print a greeting message.
